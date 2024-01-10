@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Game.GUI.MainGUI.GuiPart13840">
+  <grid id="27dc6" binding="panelMain" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="518"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="a6198" class="javax.swing.JButton" binding="startButton" default-binding="true">
+        <constraints border-constraint="South"/>
+        <properties>
+          <preferredSize width="98" height="38"/>
+          <requestFocusEnabled value="false"/>
+          <text value="Start"/>
+        </properties>
+      </component>
+      <component id="91573" class="javax.swing.JLabel">
+        <constraints border-constraint="West"/>
+        <properties>
+          <autoscrolls value="true"/>
+          <icon value="Game/GUI/Images/Chessboard.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

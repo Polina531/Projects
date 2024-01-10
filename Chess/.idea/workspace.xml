@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cd39b88-95e0-46c9-8d94-04e07aeffb8a" name="Changes" comment="??">
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/libraries/junit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/Chess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/GUI/GUI1.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/GUI/GUI1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/GUI/MainWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/MC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/Pieces/Pawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/Pieces/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Tests/BoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/Chess/src/Tests/Pieces/PawnTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wha" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Setup Script" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Game/Board.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Game/Pieces/Pawn.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Zj7cKkJQvFoyqLVXkXn33DWOza" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "302",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/p/Projects/v_control/Chess",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\p\Projects\v_control\Chess\src\Game\GUI\Images" />
+      <recent name="C:\p\Projects\v_control\Chess\src\Game\GUI\Main" />
+      <recent name="C:\p\Projects\v_control\Chess\src\Game\GUI" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Game" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Pieces" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Game.Pieces" />
+      <recent name="Pieces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MC">
+    <configuration name="GuiPart13840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.GUI.MainGUI.GuiPart13840" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.GUI.MainGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.MC" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RookTest.testCapturing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.Pieces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game.Pieces" />
+      <option name="MAIN_CLASS_NAME" value="Game.Pieces.RookTest" />
+      <option name="METHOD_NAME" value="testCapturing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RookTest.testMyPatience" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.Pieces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game.Pieces" />
+      <option name="MAIN_CLASS_NAME" value="Game.Pieces.RookTest" />
+      <option name="METHOD_NAME" value="testMyPatience" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RookTest.testingMyPatience" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.Pieces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Game.Pieces" />
+      <option name="MAIN_CLASS_NAME" value="Game.Pieces.RookTest" />
+      <option name="METHOD_NAME" value="testingMyPatience" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MC" />
+        <item itemvalue="Application.GuiPart13840" />
+        <item itemvalue="JUnit.RookTest.testCapturing" />
+        <item itemvalue="JUnit.RookTest.testingMyPatience" />
+        <item itemvalue="JUnit.RookTest.testMyPatience" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\john1\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd39b88-95e0-46c9-8d94-04e07aeffb8a" name="Changes" comment="" />
+      <created>1702923716508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702923716508</updated>
+    </task>
+    <task id="LOCAL-00001" summary="?">
+      <option name="closed" value="true" />
+      <created>1704201402624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704201402624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="?">
+      <option name="closed" value="true" />
+      <created>1704201413351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704201413351</updated>
+    </task>
+    <task id="LOCAL-00003" summary="??">
+      <option name="closed" value="true" />
+      <created>1704376930472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704376930472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="?" />
+    <MESSAGE value="??" />
+    <option name="LAST_COMMIT_MESSAGE" value="??" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
