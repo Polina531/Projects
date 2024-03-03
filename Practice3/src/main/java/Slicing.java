@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import static java.util.function.Predicate.not;
+import java.util.function.Predicate;
 
 public class Slicing {
 
@@ -13,14 +12,15 @@ public class Slicing {
     
     public static int wordCount(String x) {
         String[] a = (slicing(x));
-        
         List<String> charsToExclude = new ArrayList<>
-                (Arrays.asList(new String[]{".", ",", ";", ":", "\"", "'", "\"\""}));
-        long garbage = Arrays.stream(a)
-                .filter(charsToExclude::contains)
+                (Arrays.asList(".", ",", ";", ":", "\"", "'", "''", "\"\""));
+        Predicate<String> garbage = charsToExclude::contains;
+        
+        long counter = Arrays.stream(a)
+                .filter(garbage.negate())
                 .count();
 
-        return (int) (a.length-garbage);
+        return (int) counter;
     }
     
 }
