@@ -14,13 +14,9 @@ public class BinaryThingTest {
     public void binaryThingTest1() {
         assertEquals(1, BinaryThing.something(new int[]{1}));
     }
-//    @Test
-//    public void binaryThingTest2() {
-//        assertEquals(3, BinaryThing.something(new int[]{2,8}));
-//    }
     @Test
     public void SlicingTest() {
-        System.out.println(Arrays.toString(Slicing.slicing("1 2 3 cat dog")));
+        System.out.println(Arrays.toString(Slicing.slice("1 2 3 cat dog")));
     }
     
     
